@@ -1,0 +1,34 @@
+a:hover {
+    text-decoration: none;
+  }
+
+a{
+      color: white;
+      font-size: 20px;
+  }
+
+  a.cart{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  a.home{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 20px;
+  }
+
+.nav{
+    display: flex;
+}
+.nav a{
+    flex:1;
+}
+
+.bg-light  {
+    width: 100%;
+    background-color: #ba44e9!important;
+    color: white;
+}
+.navbar-nav{
+    justify-content: space-evenly;
+}
+

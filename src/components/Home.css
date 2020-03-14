@@ -1,0 +1,17 @@
+.major{
+    display: flex;
+}
+
+.card{
+    flex: wrap;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 4px 5px 0 rgba(0, 0, 0, 0.1);
+    width: 12px;
+}
+
+.card-img-top {
+    width: 200px;
+    padding-left: 40px;
+    padding-top:20px;
+}
